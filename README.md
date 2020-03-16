@@ -1,5 +1,3 @@
-# Stockfiller
-
 ## Installation
 
 Clone this repository and run `npm install` in the project root.
